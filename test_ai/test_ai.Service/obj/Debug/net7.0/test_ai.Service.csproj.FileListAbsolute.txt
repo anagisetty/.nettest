@@ -1,0 +1,17 @@
+C:\Amar\Debug\Debug\Apps\1\104\202304251502\test_ai\test_ai.Service\bin\Debug\net7.0\test_ai.Service.deps.json
+C:\Amar\Debug\Debug\Apps\1\104\202304251502\test_ai\test_ai.Service\bin\Debug\net7.0\test_ai.Service.dll
+C:\Amar\Debug\Debug\Apps\1\104\202304251502\test_ai\test_ai.Service\bin\Debug\net7.0\test_ai.Service.pdb
+C:\Amar\Debug\Debug\Apps\1\104\202304251502\test_ai\test_ai.Service\bin\Debug\net7.0\test_ai.DataAccess.dll
+C:\Amar\Debug\Debug\Apps\1\104\202304251502\test_ai\test_ai.Service\bin\Debug\net7.0\test_ai.DTO.dll
+C:\Amar\Debug\Debug\Apps\1\104\202304251502\test_ai\test_ai.Service\bin\Debug\net7.0\test_ai.DTO.pdb
+C:\Amar\Debug\Debug\Apps\1\104\202304251502\test_ai\test_ai.Service\bin\Debug\net7.0\test_ai.DataAccess.pdb
+C:\Amar\Debug\Debug\Apps\1\104\202304251502\test_ai\test_ai.Service\obj\Debug\net7.0\test_ai.Service.csproj.AssemblyReference.cache
+C:\Amar\Debug\Debug\Apps\1\104\202304251502\test_ai\test_ai.Service\obj\Debug\net7.0\test_ai.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Debug\Apps\1\104\202304251502\test_ai\test_ai.Service\obj\Debug\net7.0\test_ai.Service.AssemblyInfoInputs.cache
+C:\Amar\Debug\Debug\Apps\1\104\202304251502\test_ai\test_ai.Service\obj\Debug\net7.0\test_ai.Service.AssemblyInfo.cs
+C:\Amar\Debug\Debug\Apps\1\104\202304251502\test_ai\test_ai.Service\obj\Debug\net7.0\test_ai.Service.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Debug\Apps\1\104\202304251502\test_ai\test_ai.Service\obj\Debug\net7.0\test_ai.Service.csproj.CopyComplete
+C:\Amar\Debug\Debug\Apps\1\104\202304251502\test_ai\test_ai.Service\obj\Debug\net7.0\test_ai.Service.dll
+C:\Amar\Debug\Debug\Apps\1\104\202304251502\test_ai\test_ai.Service\obj\Debug\net7.0\refint\test_ai.Service.dll
+C:\Amar\Debug\Debug\Apps\1\104\202304251502\test_ai\test_ai.Service\obj\Debug\net7.0\test_ai.Service.pdb
+C:\Amar\Debug\Debug\Apps\1\104\202304251502\test_ai\test_ai.Service\obj\Debug\net7.0\ref\test_ai.Service.dll
